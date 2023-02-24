@@ -1,7 +1,7 @@
 # Telecom-Churn-Analysis
 Steps Involved In the Project :-
 
-#Data Collection and Preprocessing: 
+# Data Collection and Preprocessing: 
 Collected the raw data from the telecom company's database and preprocess it using Python. Data cleaning and feature engineering techniques applied to ensure the data is in the desired format for analysis.
 
 #Exploratory Data Analysis (EDA): 
