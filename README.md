@@ -1,3 +1,6 @@
+# Checkout and Interact with my Dashboard On:
+https://www.novypro.com/project/churning-behavior-of-customers
+
 # Telecom-Churn-Analysis
 Steps Involved In the Project :-
 
@@ -19,6 +22,4 @@ In Power BI, created a new report and added visualizations such as tables, chart
 # Publish and Share the Dashboard: 
 Once the dashboard is completed, published it to the Power BI service and share it with relevant stakeholders. Users can access the report through the Power BI app or web portal.
 
-# Checkout and Interact with my Dashboard On:
 
-https://www.novypro.com/project/churning-behavior-of-customers
