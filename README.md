@@ -22,4 +22,5 @@ In Power BI, created a new report and added visualizations such as tables, chart
 # Publish and Share the Dashboard: 
 Once the dashboard is completed, published it to the Power BI service and share it with relevant stakeholders. Users can access the report through the Power BI app or web portal.
 
+![Telecom churn analysis](https://user-images.githubusercontent.com/113992933/222410788-7955119f-28ea-43f0-8d88-58f0f36d2c27.png)
 
